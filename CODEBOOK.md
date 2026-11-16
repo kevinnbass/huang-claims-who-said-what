@@ -83,3 +83,5 @@ The place of the passage in the document (headline, subhead, caption, first para
   The rule was applied to the statements already filed: a reader looked at every statement picked by form (short and
   without a full stop, or equal to another saved page's title, or opening with a list number), and the referee ruled
   on each one that reader called another article's headline.
+  The same holds for readers' comments printed under an article: they are not statements of the document (added the
+  same day, after a reading of every first-day statement found four of them filed).
