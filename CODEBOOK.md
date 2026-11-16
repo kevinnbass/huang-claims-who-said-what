@@ -72,3 +72,14 @@ The place of the passage in the document (headline, subhead, caption, first para
   else and the affair or the spying sits in the reporter's own clause beside them, the speaker is the outlet.
 - **`AFFAIR_ANY`** is judged on the sentence and its own paragraph only; a partner named in another paragraph does not
   make it `AFFAIR_AH`.
+
+## One rule added after coding (2026-11-16)
+- **Another article's headline is not a statement of this document.** A saved page shows more than its article: lists
+  of the site's related, recommended, trending or most-read stories, a line such as "RELATED:", "Also read" or "Read
+  more" followed by a headline, a teaser or promo for another piece, the entries of a reference list. A headline of, or
+  a link or teaser to, a different article is not filed for the page that shows it. A headline, deck, subheading,
+  caption, pull quote, bullet or list item of the article itself is filed as before. Why: such lists are filled in
+  after publication, so a page of Oct 29 can show a headline of Nov 8, and the table would date that claim to Oct 29.
+  The rule was applied to the statements already filed: a reader looked at every statement picked by form (short and
+  without a full stop, or equal to another saved page's title, or opening with a list number), and the referee ruled
+  on each one that reader called another article's headline.
